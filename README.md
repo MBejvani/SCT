@@ -1,7 +1,6 @@
-# S-K-Chirplet-
+# SCT
 ## Spline-Kernelled Chirplet Transform
-### Spline-Kernelled Chirplet Transform for the Analysis
-of Signals With Time-Varying Frequency
+### Spline-Kernelled Chirplet Transform for the Analysis of Signals With Time-Varying Frequency
 
 ## REFERENCES
 Y. Yang, Z. K. Peng, G. Meng and W. M. Zhang, "Spline-Kernelled Chirplet Transform for the Analysis of Signals With Time-Varying Frequency and Its Application," in IEEE Transactions on Industrial Electronics,

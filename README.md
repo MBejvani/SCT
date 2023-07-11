@@ -14,6 +14,7 @@ https://ieeexplore.ieee.org/document/5971783
 https://ieeexplore.ieee.org/document/6226868
 * Z. K. Peng, G. Meng, F. L. Chu, Z. Q. Lang, W. M. Zhang and Y. Yang, "Polynomial Chirplet Transform With Application to Instantaneous Frequency Estimation," in IEEE Transactions on Instrumentation and Measurement, vol. 60, no. 9, pp. 3222-3229, Sept. 2011, doi: 10.1109/TIM.2011.2124770.
 https://ieeexplore.ieee.org/document/5739524
+* Bejvani, Mohammad, and Ali Gholami. "Seismic Signal Analysis Based on Spline-Kernelled Chirplet Transform."
 
 
 
